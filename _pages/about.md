@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a PhD student in SIGMA Lab from the Faculty of Information Science and Engineering, Ocean University of China, supervised by Professor [Yanwei Yu](https://yuyanwei.github.io/).
+I'm a Ph.D. student in SIGMA Lab from the Faculty of Information Science and Engineering, Ocean University of China, supervised by Professor [Yanwei Yu](https://yuyanwei.github.io/).
 
 My current research interests focus on spatiotemporal data mining, exploring ubiquitous physical knowledge in the real world to improve interpretability in data-driven models.
 
