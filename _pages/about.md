@@ -13,6 +13,4 @@ My current research interests focus on spatiotemporal data mining, exploring ubi
 
 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](zhaoxingyu@stu.ouc.edu.cn) / [Github](https://github.com/Lion1a) / [Wechat](../images/myself.jpg)
+You can find my CV here: 
