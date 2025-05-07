@@ -7,13 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm the PhD student in SIGMA group at Ocean University of China, supervised by Professor Yanwei Yu. I received master's degree  in July 2024.
+I'm a PhD student in SIGMA Lab from the Faculty of Information Science and Engineering, Ocean University of China, supervised by Professor [Yanwei Yu](https://yuyanwei.github.io/).
 
-A data-driven personal website
-======
-
-
-
-
-Site-wide configuration
-------
