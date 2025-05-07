@@ -13,7 +13,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://lion1a.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://Lion1a.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -28,8 +28,8 @@ author:
   bio              : ""
   location         : "China"
   employer         : "Ocean University of China"
-  uri              : https://Lion1a.github.io
-  email            : "none@example.org" 
+  # uri              : https://Lion1a.github.io
+  # email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
