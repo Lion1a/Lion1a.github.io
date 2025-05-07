@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/myself.jpg"
+  avatar           : "images/myself.png"
   name             : "Xingyu Zhao"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "China"
   employer         : "Ocean University of China"
-  uri              : # URL
+  uri              : https://lion1a.github.io
   email            : "none@example.org" 
 
   # Academic websites
