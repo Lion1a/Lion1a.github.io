@@ -14,4 +14,3 @@ My current research interests focus on spatiotemporal data mining, exploring ubi
 
 
 
-You can find my CV here: 
