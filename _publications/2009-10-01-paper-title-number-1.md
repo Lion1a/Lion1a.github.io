@@ -4,6 +4,6 @@ collection: publications
 date: 2024-11-08
 venue: 'Journal 1'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024GL112308'
-citation: 'Zhou, Lei, Yanwei Yu, Bingqi Yan, Xingyu Zhao, Jianhuang Qin, Wei Tan, Youmin Tang et al. "Skillful prediction of Indian monsoon intraseasonal precipitation using Central Indian Ocean mode and machine learning." Geophysical Research Letters 51, no. 24 (2024): e2024GL112308.'
+citation: 'Zhou, Lei, Yanwei Yu, Bingqi Yan, Xingyu Zhao, Jianhuang Qin, Wei Tan, Youmin Tang et al. "Skillful prediction of Indian monsoon intraseasonal precipitation using Central Indian Ocean mode and machine learning." Geophysical Research Letters 51, no. 24 (2024): e2024GL112308.' 
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
