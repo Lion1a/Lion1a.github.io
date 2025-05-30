@@ -2,8 +2,8 @@
 title: "Correlation-attention masked temporal transformer for user identity linkage using heterogeneous mobility data"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-date: 2024-12-28
+permalink: /publication/2010-10-01-paper-title-number-3
+date: 2025-04-11
 venue: 'Journal 3'
 slidesurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/33418'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/33418'
