@@ -1,7 +1,6 @@
 ---
 title: "Skillful prediction of Indian monsoon intraseasonal precipitation using Central Indian Ocean mode and machine learning"
 collection: publications
-category: manuscripts
 date: 2024-11-08
 venue: 'Journal 1'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024GL112308'
