@@ -3,7 +3,6 @@ title: "Skillful prediction of Indian monsoon intraseasonal precipitation using 
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-12-28
 venue: 'Journal 1'
 slidesurl: 'https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024GL112308'
